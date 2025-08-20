@@ -13,3 +13,14 @@
 <% mountain.content.forEach(paragraph => { %>
   <p><%= paragraph %></p>
 <% }) %>
+
+<h3>Other Eight Thousanders</h3>
+<ul class="menu">
+  <% mountains.forEach(mountain => { %>
+    <li>
+      <a href="/<%= mountain.slug %>">
+        <%= mountain.name %> - <%= mountain.height %> m
+      </a>
+    </li>
+  <% }) %>
+</ul>

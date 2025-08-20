@@ -28,7 +28,9 @@ app.get("/:mountain", (req, res, next) => {
     return next()
   }
 
-  res.render("mountain", { title: mountain.name, mountain})
+  let otherMountains = mountains.filter(m => m.slug.toLowerCase() !== name.toLowerCase());
+
+  res.render("mountain", { title: mountain.name, mountain, mountains: otherMountains })
 });
 
 app.use((req, res) => {
