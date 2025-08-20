@@ -5,4 +5,4 @@ An SSR site describing the 14 Eight-Thounsanders. I use this web application to 
 - Backend Development
 - Frontend Development (rarely)
 
-The aim of this application is to allow me to learn software development and operation skills so I can comfortable in the workplace.
+The aim of this application is to allow me to learn software development and operation skills so I can feel comfortable in the workplace.
