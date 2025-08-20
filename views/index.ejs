@@ -1,0 +1,21 @@
+<h1>Mountains</h1>
+<p class="lead">The 14 Eight Thousanders are the world's highest mountains, 
+  each rising above 8,000 metres in elevation.
+</p>
+<p>
+  Located in 
+  the Himalayas and Karakoram ranges of Asia, these peaks are 
+  renowned for their extreme altitude, challenging conditions, and 
+  the remarkable achievements of climbers who have reached their 
+  summits.
+</p>
+<h2>The 14 Eight Thousanders</h2>
+<ul class="menu">
+  <% mountains.forEach(mountain => { %>
+    <li>
+      <a href="/<%= mountain.slug %>">
+        <%= mountain.name %> - <%= mountain.height %> m
+      </a>
+    </li>
+  <% }) %>
+</ul>
