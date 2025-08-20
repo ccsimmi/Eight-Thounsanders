@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Mount Everest",
+    "height": 8848,
+    "range": "Himalayas",
+    "slug": "everest",
+    "country": ["Nepal", "China (Tibet)"],
+    "lead": "The highest mountain in the world, Everest has long symbolized human endurance and exploration.",
+    "content": [
+      "Mount Everest, known locally as Sagarmatha in Nepal and Chomolungma in Tibet, stands at 8,848 metres as the tallest peak on Earth.",
+      "The first confirmed ascent in 1953 by Edmund Hillary and Tenzing Norgay made global history and inspired generations of climbers.",
+      "Today, Everest attracts climbers from all over the world, but it also raises concerns about overcrowding and environmental impact.",
+      "Despite the risks, Everest remains one of the greatest challenges and achievements in human exploration."
+    ],
+    "coordinates": { "lat": 27.9881, "lng": 86.9250 }
+  },
+  {
+    "name": "K2",
+    "height": 8611,
+    "range": "Karakoram",
+    "slug": "k2",
+    "country": ["Pakistan", "China"],
+    "lead": "Often called the 'Savage Mountain,' K2 is considered more dangerous to climb than Everest.",
+    "content": [
+      "K2, the second-highest mountain in the world, rises to 8,611 metres in the Karakoram range.",
+      "It is infamous for its extreme difficulty and high fatality rate among climbers.",
+      "Unlike Everest, K2 has no easy routes, and weather conditions are notoriously unpredictable.",
+      "Its striking pyramid shape dominates the Karakoram skyline and commands respect from all who see it."
+    ],
+    "coordinates": { "lat": 35.8808, "lng": 76.5133 }
+  },
+  {
+    "name": "Kangchenjunga",
+    "height": 8586,
+    "range": "Himalayas",
+    "slug": "kangchenjunga",
+    "country": ["Nepal", "India"],
+    "lead": "Once thought to be the highest peak, Kangchenjunga is revered as sacred in local traditions.",
+    "content": [
+      "Kangchenjunga is the third-highest mountain on Earth at 8,586 metres.",
+      "It lies on the border of Nepal and India, where it holds spiritual significance.",
+      "Climbers often stop short of the true summit out of respect for local beliefs.",
+      "The name means 'Five Treasures of Snow,' symbolizing gold, silver, gems, grain, and holy scriptures."
+    ],
+    "coordinates": { "lat": 27.7025, "lng": 88.1475 }
+  },
+  {
+    "name": "Lhotse",
+    "height": 8516,
+    "range": "Himalayas",
+    "slug": "lhotse",
+    "country": ["Nepal", "China (Tibet)"],
+    "lead": "Lhotse, Everest’s neighbor, is the fourth-highest mountain and shares much of its route.",
+    "content": [
+      "Lhotse stands at 8,516 metres and is closely connected to Mount Everest.",
+      "Its climbing route diverges from Everest near the South Col.",
+      "Though overshadowed by Everest, it presents its own formidable challenges.",
+      "Lhotse’s steep icy faces are considered some of the most difficult terrain in the Himalayas."
+    ],
+    "coordinates": { "lat": 27.9617, "lng": 86.9330 }
+  },
+  {
+    "name": "Makalu",
+    "height": 8485,
+    "range": "Himalayas",
+    "slug": "makalu",
+    "country": ["Nepal", "China (Tibet)"],
+    "lead": "Known for its pyramid-like shape, Makalu is one of the most striking 8,000-metre peaks.",
+    "content": [
+      "Makalu reaches 8,485 metres and is located southeast of Everest.",
+      "Its sharp ridges and steep pitches make it a technically demanding climb.",
+      "The peak is famous for its dramatic silhouette when viewed from a distance.",
+      "Makalu was first successfully climbed in 1955 by a French expedition."
+    ],
+    "coordinates": { "lat": 27.8897, "lng": 87.0883 }
+  },
+  {
+    "name": "Cho Oyu",
+    "height": 8188,
+    "range": "Himalayas",
+    "slug": "cho-oyu",
+    "country": ["Nepal", "China (Tibet)"],
+    "lead": "Cho Oyu, the 'Turquoise Goddess,' is considered one of the easier 8,000-metre peaks.",
+    "content": [
+      "Cho Oyu stands at 8,188 metres and sits on the Nepal–Tibet border.",
+      "It is often considered the best peak for those attempting their first 8,000-metre climb.",
+      "Its name means 'Turquoise Goddess' in Tibetan, reflecting local cultural reverence.",
+      "The mountain provides stunning views of Everest and the surrounding Himalayas."
+    ],
+    "coordinates": { "lat": 28.0942, "lng": 86.6608 }
+  },
+  {
+    "name": "Dhaulagiri",
+    "height": 8167,
+    "range": "Himalayas",
+    "slug": "dhaulagiri",
+    "country": ["Nepal"],
+    "lead": "Dhaulagiri, the 'White Mountain,' was once thought to be the world’s highest peak.",
+    "content": [
+      "Dhaulagiri rises to 8,167 metres in Nepal.",
+      "Its name means 'White Mountain' in Sanskrit, a reference to its massive snowy slopes.",
+      "The mountain is known for its sheer faces and steep ridges.",
+      "It presents a dramatic contrast with the nearby Annapurna range."
+    ],
+    "coordinates": { "lat": 28.6975, "lng": 83.4875 }
+  },
+  {
+    "name": "Manaslu",
+    "height": 8163,
+    "range": "Himalayas",
+    "slug": "manaslu",
+    "country": ["Nepal"],
+    "lead": "Known as the 'Mountain of the Spirit,' Manaslu is revered by locals and climbers alike.",
+    "content": [
+      "Manaslu stands at 8,163 metres in west-central Nepal.",
+      "Its name is derived from the Sanskrit word 'Manasa,' meaning soul or intellect.",
+      "The first ascent was achieved by a Japanese team in 1956.",
+      "Today, it is a popular peak for climbers seeking a less crowded alternative to Everest."
+    ],
+    "coordinates": { "lat": 28.5494, "lng": 84.5610 }
+  },
+  {
+    "name": "Nanga Parbat",
+    "height": 8126,
+    "range": "Himalayas",
+    "slug": "nanga-parbat",
+    "country": ["Pakistan"],
+    "lead": "Nicknamed the 'Killer Mountain,' Nanga Parbat is notorious for its deadly climbing history.",
+    "content": [
+      "Nanga Parbat reaches 8,126 metres in Pakistan’s Gilgit-Baltistan region.",
+      "Its massive south face, the Rupal Face, is the world’s highest mountain face.",
+      "Early expeditions faced tragic losses, giving it a deadly reputation.",
+      "Despite its history, it remains a magnet for elite mountaineers."
+    ],
+    "coordinates": { "lat": 35.2372, "lng": 74.5892 }
+  },
+  {
+    "name": "Annapurna I",
+    "height": 8091,
+    "range": "Himalayas",
+    "slug": "annapurna",
+    "country": ["Nepal"],
+    "lead": "Annapurna I was the first 8,000-metre peak ever successfully climbed, but it is also one of the deadliest.",
+    "content": [
+      "Annapurna I, at 8,091 metres, was first climbed in 1950 by a French expedition.",
+      "It has one of the highest fatality rates among the 8,000-metre peaks.",
+      "The Annapurna massif is also home to some of Nepal’s most famous trekking routes.",
+      "Its name comes from the goddess Annapurna, associated with nourishment and food."
+    ],
+    "coordinates": { "lat": 28.5958, "lng": 83.8203 }
+  },
+  {
+    "name": "Gasherbrum I",
+    "height": 8080,
+    "range": "Karakoram",
+    "slug": "gasherbrum-i",
+    "country": ["Pakistan", "China"],
+    "lead": "Gasherbrum I, also known as 'Hidden Peak,' is the 11th-highest mountain in the world.",
+    "content": [
+      "Gasherbrum I rises to 8,080 metres in the Karakoram range.",
+      "It was first climbed in 1958 by an American team.",
+      "The name 'Gasherbrum' means 'beautiful mountain' in Balti language.",
+      "Its remote location makes it less frequently climbed than its neighbors."
+    ],
+    "coordinates": { "lat": 35.7242, "lng": 76.6961 }
+  },
+  {
+    "name": "Broad Peak",
+    "height": 8051,
+    "range": "Karakoram",
+    "slug": "broad-peak",
+    "country": ["Pakistan", "China"],
+    "lead": "Named for its wide summit ridge, Broad Peak is a massive presence in the Karakoram.",
+    "content": [
+      "Broad Peak stands at 8,051 metres near K2 in the Karakoram range.",
+      "Its summit ridge stretches for over 1.5 kilometres, giving it its descriptive name.",
+      "The first ascent was made in 1957 by an Austrian team.",
+      "Though not as well-known as K2, it remains a significant challenge for mountaineers."
+    ],
+    "coordinates": { "lat": 35.8125, "lng": 76.5650 }
+  },
+  {
+    "name": "Gasherbrum II",
+    "height": 8035,
+    "range": "Karakoram",
+    "slug": "gasherbrum-ii",
+    "country": ["Pakistan", "China"],
+    "lead": "Gasherbrum II is considered one of the more accessible 8,000-metre peaks in the Karakoram.",
+    "content": [
+      "Gasherbrum II reaches 8,035 metres and is the 13th-highest mountain in the world.",
+      "It was first climbed in 1956 by an Austrian team.",
+      "The mountain is often chosen by climbers attempting their first Karakoram 8,000er.",
+      "Its relative accessibility does not diminish the dangers of extreme altitude."
+    ],
+    "coordinates": { "lat": 35.7583, "lng": 76.6533 }
+  },
+  {
+    "name": "Shishapangma",
+    "height": 8027,
+    "range": "Himalayas",
+    "slug": "shishapangma",
+    "country": ["China (Tibet)"],
+    "lead": "The only 8,000-metre peak located entirely within Tibet, Shishapangma is the lowest of the 14 giants.",
+    "content": [
+      "Shishapangma rises to 8,027 metres in Tibet.",
+      "It was the last of the 8,000ers to be climbed, with the first ascent in 1964 by a Chinese team.",
+      "Its relative accessibility has made it a popular goal for climbers acclimatizing to high altitudes.",
+      "Despite being the 'lowest' of the group, it is still a formidable mountain."
+    ],
+    "coordinates": { "lat": 28.3525, "lng": 85.7792 }
+  }
+]

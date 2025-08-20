@@ -1,3 +1,12 @@
 <h1><%= mountain.name %></h1>
-<p>Height: <%= mountain.height %> m</p>
-<p>Range: <%= mountain.range %></p>
+<p class="lead"><%= mountain.lead %></p>
+
+<h2>Statistics</h2>
+<p><strong>Height:</strong> <%= mountain.height %> m</p>
+<p><strong>Range:</strong> <%= mountain.range %></p>
+<p><strong>Countries:</strong> <%= mountain.country.join(', ') %></p>
+
+<h2>About</h2>
+<% mountain.content.forEach(paragraph => { %>
+  <p><%= paragraph %></p>
+<% }) %>

@@ -2,7 +2,7 @@ require("dotenv").config();
 const express = require("express");
 const layouts = require("express-ejs-layouts");
 const path = require("path");
-const { mountains } = require("./constants/const");
+const fs = require("fs");
 
 const app = express();
 
@@ -13,9 +13,12 @@ app.set("layout", "layouts/base")
 
 app.use(express.static(path.join(__dirname, "public")));
 
+const mountainsDataPath = path.join(__dirname, "data", "mountains.json");
+const mountains = JSON.parse(fs.readFileSync(mountainsDataPath, "utf-8"));
+
 app.get("/", (req, res) => {
   res.render("index", { title: "Mountains", mountains });
-})
+});
 
 app.get("/:mountain", (req, res, next) => {
   const name = req.params.mountain;
