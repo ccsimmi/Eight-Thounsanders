@@ -88,15 +88,6 @@ a:active {
   color: rgb(15, 90, 110); 
 }
 
-a:visited {
-  color: rgb(120, 100, 160); 
-}
-
-a:visited:hover {
-  color: rgb(100, 80, 140); 
-  text-decoration: underline;
-}
-
 /* Blockquotes */
 blockquote {
   margin: var(--spacing-lg) 0;
