@@ -12,6 +12,7 @@
   --line-height-base: 1.6;
   --color-text: rgb(74, 72, 69);
   --color-accent: rgb(27, 161, 195);
+  --color-soft: rgb(128, 143, 147);
   --spacing-xs: 0.25rem;
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
@@ -51,6 +52,7 @@ p {
 .lead {
   font-size: 1.25rem;
   line-height: 1.5;
+  font-weight: 700;
   color: var(--color-accent);
   margin-bottom: var(--spacing-md);
 }
@@ -103,13 +105,6 @@ img {
   display: block;
   margin: var(--spacing-lg) auto;
   border-radius: 8px;
-}
-
-/* Nav */
-nav {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
 }
 
 /* Footer */
